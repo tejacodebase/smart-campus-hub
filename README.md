@@ -1,1 +1,1 @@
-# shri-abhyasa
+# Shri Abhyasa
