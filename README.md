@@ -41,8 +41,42 @@
 10. Sample Workflows:
     -   Step-by-step examples of how to use the API for common tasks (e.g., marking attendance, retrieving progress reports, processing fee payments).
 
+
+
+## 2. User Interface
+
+### Key Features 
+
+#### Attendance Tracking
+-   Intuitive interface for marking student attendance.
+-   Visual cues for attendance status.
+-   Interactive calendar for selecting dates.
+
+#### Progress Reports
+-   Access to comprehensive progress reports for individual students.
+-   Graphical representations of academic performance.
+-   User-friendly layout for easy navigation.
+
+#### Fee Management
+-   Efficient fee payment and management interface.
+-   Display of pending and paid fees.
+-   Clear breakdown of fee components.
+
+  
+### Design Principles 
+-   Simplicity: Our UI design follows a clean and intuitive layout to ensure ease of use for all users.
+-   Consistency: Consistent use of colours, typography, and components creates a unified and recognizable interface.
+-   User-Centered Design: The UI is designed with the user's needs and tasks in mind, enhancing the overall user experience.
+
+### Technologies Used
+-   Angular: Front-end framework for building dynamic and responsive UI components.
+-   JavaScript: Programming language used for interactive and dynamic behaviours.
+-   Bootstrap: CSS framework for consistent styling and responsive design.
+-   CSS3: Styling language for customizing the appearance of UI elements.
+
+
    
-## 2. Schema Structure
+## 3. Schema Structure
 - students:
   - student_id (Primary Key)
   - first_name
@@ -129,5 +163,3 @@
   - availability_status
 
 
-
-## 3. User Interface
