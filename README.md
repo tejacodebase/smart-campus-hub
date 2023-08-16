@@ -1,6 +1,6 @@
 # Smart Campus Hub
 
-## School REST API
+## Plan
 ### 1. Schema Structure
 - students:
   - student_id (Primary Key)
