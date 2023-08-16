@@ -87,7 +87,7 @@
   - publication_year
   - availability_status
 
-## REST API
+## 2. REST API
 
 
-## User Interface
+## 3. User Interface
