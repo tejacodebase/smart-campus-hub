@@ -1,4 +1,4 @@
-# Shri Abhyasa
+# Smart Campus Hub
 
 ## School REST API
 ### 1. Tables
