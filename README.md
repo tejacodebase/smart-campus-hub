@@ -1,7 +1,48 @@
 # Smart Campus Hub
 
-## Plan
-### 1. Schema Structure
+## 1. REST API
+1.  Introduction:
+    -   Brief overview of the School Management Website and its core features.
+    -   Explanation of the purpose and benefits of the API.
+2.  Authentication and Authorization:
+
+    -   How to obtain API keys or tokens for authentication.
+    -   Explanation of authorization levels for different endpoints.
+3.  Base URL and Endpoints:
+
+    -   Base URL for API requests.
+    -   List of available endpoints, categorized by features (Attendance, Progress Reports, Fee management, etc.).
+4.  Request and Response Formats:
+
+    -   Description of the supported request methods (GET, POST, PUT, DELETE).
+    -   Examples of request payloads and response structures in JSON format.
+5.  Common Request Headers:
+
+    -   List of headers to include in API requests (e.g., Content-Type, Authorization).
+6.  Error Handling:
+
+    -   Explanation of possible error responses and their corresponding HTTP status codes.
+    -   Sample error response formats.
+7.  Attendance API:
+
+    -   Explanation of endpoints related to attendance tracking.
+    -   Details about request parameters and expected responses.
+    -   Sample request and response examples for each endpoint.
+8.  Progress Reports API:
+
+    -   Explanation of endpoints for accessing student progress reports.
+    -   Details about request parameters and expected responses.
+    -   Sample request and response examples for each endpoint.
+9.  Fee Management API:
+
+    -   Explanation of endpoints for handling fee-related operations.
+    -   Details about request parameters and expected responses.
+    -   Sample request and response examples for each endpoint.
+10. Sample Workflows:
+    -   Step-by-step examples of how to use the API for common tasks (e.g., marking attendance, retrieving progress reports, processing fee payments).
+
+   
+## 2. Schema Structure
 - students:
   - student_id (Primary Key)
   - first_name
@@ -87,7 +128,6 @@
   - publication_year
   - availability_status
 
-## 2. REST API
 
 
 ## 3. User Interface
