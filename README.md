@@ -1,7 +1,7 @@
 # Smart Campus Hub
 
 ## School REST API
-### 1. Tables
+### 1. Schema Structure
 - students:
   - student_id (Primary Key)
   - first_name
@@ -11,9 +11,10 @@
   - contact_number
   - email
   - address
-  - teachers:
+  
 
-- teacher_id (Primary Key)
+- teachers:
+  - teacher_id (Primary Key)
   - first_name
   - last_name
   - date_of_birth
@@ -85,5 +86,8 @@
   - author
   - publication_year
   - availability_status
+
+## REST API
+
 
 ## User Interface
